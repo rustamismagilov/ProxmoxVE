@@ -32,7 +32,7 @@
     },
     "notes": [
         {
-            "text": "AdguardHome is only updatable via the WebUI!",
+            "text": "Adguard Home can be updated via the user interface.",
             "type": "warning"
         }
     ]
